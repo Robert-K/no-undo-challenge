@@ -1,7 +1,7 @@
 # No Undo Challenge
 Try using your professional software without undoing or get laughed at!
 
-## AutoHotKey is not required to run the executable!
+### AutoHotKey is not required to run the executable!
 
 ## Why not just unbind the undo shortcut?
 Launching a small .exe usually is faster and allows you not to mess with your application's settings.
