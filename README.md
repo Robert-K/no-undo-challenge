@@ -11,3 +11,5 @@ Also this fabulous program will make fun of you if you fail.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 Sound effects obtained from [ZapSplat.com](https://www.zapsplat.com).
+
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
