@@ -1,4 +1,4 @@
-# No Undo Challenge
+# No Undo Challenge 🚫
 Try using your professional software without undoing or get laughed at!
 
 ### AutoHotkey is not required to run the executable!
