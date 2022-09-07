@@ -1,6 +1,10 @@
 # No Undo Challenge 🚫
 Try using your professional software without undoing or get laughed at!
 
+This portable application will prevent you from using Ctrl+Z and play a humiliating sound everytime you press it on accident!
+
+Veery loosely inspired by the OP-1 workflow ;)
+
 ### AutoHotkey is not required to run the executable!
 
 ## Why not just unbind the undo shortcut?
